@@ -8,7 +8,7 @@ Use:
 - Core Data
 - Kingfisher
 
-PROJE : 
+PROJECT : 
 
 <img width="320" alt="Screenshot 2023-05-15 at 14 27 14" src="https://github.com/sehribany/NetflixApp/assets/65239293/6836c0fd-c583-4abd-8b25-f04388d14e6c">
 
