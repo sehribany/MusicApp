@@ -21,4 +21,4 @@ PROJE :
 <img width="320" alt="Screenshot 2023-05-15 at 14 28 38" src="https://github.com/sehribany/NetflixApp/assets/65239293/acec979f-0093-4f83-9940-a5f04977c422">
 
 <img width="320" alt="Screenshot 2023-05-15 at 14 28 48" src="https://github.com/sehribany/NetflixApp/assets/65239293/1c8526f9-8127-455f-a70f-ad171d539cfc">
-9952ce6">
+
